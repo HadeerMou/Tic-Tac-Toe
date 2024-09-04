@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(249, 247, 248);
+  background-image: url(assets/icon1.jpg);
+}
+
+#root {
+  max-width: 1280px;
+  text-align: center;
+}
+.square {
+  background-color: rgb(252, 216, 222);
+  border-color: black;
+  border-radius: 2px;
+  border-width: 5px;
+  width: 130px;
+  height: 130px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.status {
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  padding: 20px;
+}
